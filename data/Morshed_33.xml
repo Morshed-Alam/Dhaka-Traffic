@@ -1,0 +1,26 @@
+<annotation>
+	<folder>morshed</folder>
+	<filename>Morshed_33.jpg</filename>
+	<path>C:\Users\hp\Downloads\morshed\Morshed_33.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>auto rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>354</ymin>
+			<xmax>1475</xmax>
+			<ymax>1500</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra_pictures</folder>
+	<filename>Bidhan_56.jpg</filename>
+	<path>D:\extra_pictures\Bidhan_56.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ambulance</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>71</ymin>
+			<xmax>580</xmax>
+			<ymax>374</ymax>
+		</bndbox>
+	</object>
+</annotation>

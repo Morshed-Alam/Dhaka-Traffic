@@ -1,0 +1,38 @@
+<annotation>
+	<folder>extra_pictures</folder>
+	<filename>Bidhan_151.jpg</filename>
+	<path>D:\extra_pictures\Bidhan_151.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>garbagevan</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>42</ymin>
+			<xmax>152</xmax>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>auto rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>140</xmin>
+			<ymin>36</ymin>
+			<xmax>207</xmax>
+			<ymax>104</ymax>
+		</bndbox>
+	</object>
+</annotation>

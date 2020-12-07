@@ -1,0 +1,38 @@
+<annotation>
+	<folder>extra_pictures</folder>
+	<filename>Bidhan_64.jpg</filename>
+	<path>D:\extra_pictures\Bidhan_64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1300</width>
+		<height>957</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>236</ymin>
+			<xmax>1282</xmax>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1248</xmin>
+			<ymin>428</ymin>
+			<xmax>1300</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

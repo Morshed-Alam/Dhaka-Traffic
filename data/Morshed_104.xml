@@ -1,0 +1,86 @@
+<annotation>
+	<folder>morshed</folder>
+	<filename>Morshed_104.jpg</filename>
+	<path>C:\Users\hp\Downloads\morshed\Morshed_104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>370</xmin>
+			<ymin>618</ymin>
+			<xmax>1262</xmax>
+			<ymax>1608</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>1026</ymin>
+			<xmax>391</xmax>
+			<ymax>1344</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2359</xmin>
+			<ymin>542</ymin>
+			<xmax>3264</xmax>
+			<ymax>1685</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1838</xmin>
+			<ymin>779</ymin>
+			<xmax>2643</xmax>
+			<ymax>1597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1443</xmin>
+			<ymin>887</ymin>
+			<xmax>1864</xmax>
+			<ymax>1492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>army vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>963</ymin>
+			<xmax>1449</xmax>
+			<ymax>1431</ymax>
+		</bndbox>
+	</object>
+</annotation>

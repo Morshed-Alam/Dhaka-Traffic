@@ -1,0 +1,26 @@
+<annotation>
+	<folder>extra_pictures</folder>
+	<filename>Bidhan_130.jpg</filename>
+	<path>D:\extra_pictures\Bidhan_130.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>656</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>333</xmin>
+			<ymin>104</ymin>
+			<xmax>538</xmax>
+			<ymax>419</ymax>
+		</bndbox>
+	</object>
+</annotation>
